@@ -14,7 +14,7 @@ int main() {
     printf("\nProfesora: Anna Araba"); 
     printf("\nFecha de entrega: 31/10/2023"); 
     printf("\n\nProblema#2: Algoritmo que calcule e imprima el volumen de un cono, de un cilindro y valores de la linea recta y=2x+1."); 
-    printf("\nPrograma: pgcEq0502 - Enrique Fong (4-829-300)"); 
+    printf("\nPrograma: pgcEq0702 - Enrique Fong (4-829-300)"); 
     printf("\nDesarrollado en Visual Studio Code v1.83.1\n"); 
 
     //Preguntar qué proceso desea realizar
